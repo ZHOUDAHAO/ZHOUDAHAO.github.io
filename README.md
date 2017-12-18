@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+**About Me**
+My name is Shihao Zhou, I am a senior student in Fudan University. My research interest lies primarily in Machine Learning and Natural language Processing 
 
-You can use the [editor on GitHub](https://github.com/ZHOUDAHAO/ZHOUDAHAO.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
